@@ -1,0 +1,1 @@
+const String movieUrl ="http://192.168.100.1/movieshopp/connect.php?action";
